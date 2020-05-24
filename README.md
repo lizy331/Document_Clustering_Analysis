@@ -1,2 +1,5 @@
-# paragraph-tfidf
-compute the tfidf for a given file by paragrph
+# Report Language Analysis
+wordcount
+tfidf
+sentiment analysis
+wordcount variance
