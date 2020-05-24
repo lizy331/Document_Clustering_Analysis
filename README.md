@@ -1,5 +1,8 @@
 # Report Language Analysis
-wordcount
-tfidf
-sentiment analysis
-wordcount variance
+1. wordcount
+
+2. tfidf
+
+3. sentiment analysis
+
+4. wordcount variance
