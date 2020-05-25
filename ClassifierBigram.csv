@@ -1,0 +1,27 @@
+Cluster Name,Top10_words,accuracy
+Intimate_Partner_Ever,"boyer,vic,monk,boyfriend,ex boyfriend,ex,named,domestic violence,domestic,violence",0.8771929824561403
+suspect_used_weapon,"felonious,ordered,van,robbery,pointed,head,weapon,kidnapping,gun,knife",0.8508771929824561
+suspect_used_bodily_force,"threw,photos,face,kidnapping,bitch,started,pushed,began,forced,grabbed",0.7456140350877193
+any_oral_penetration,"dick,suck dick,mouth,forced,forced perform,automobile,suck,perform oral,perform,oral",0.8333333333333334
+location_of_assault_vehicle,"passenger,parking lot,pulled,plate,parking,van,lot,automobile,drove,seat",0.8859649122807017
+acquaintance,"apt,cousin,cancel,house,began,charmayne,room,interview,jackson,friend",0.8333333333333334
+suspect_used_alc_or_drugs,"hopper,beer,crack,smoke,traylor,marijuana,began,name,bar,drinking",0.8245614035087719
+other,"johnaya,tammera,nichole,brother,acoff,bo,traylor,named,juvenile,mother",0.8947368421052632
+complainant_used_alc_or_drugs,"club,alcohol,highly,beer,smoke,marijuana,intoxicated,males,bar,drinking",0.7807017543859649
+suspect_used_control,"take,want,unable,drove,forced,away,gun,pulled,grabbed,kidnapping",0.8508771929824561
+any_anal_penetration,"oral,anal intercourse,wayne,mr miller,brandon,conkle,bearfield,hinton,anus,anal",0.8421052631578947
+suspect_identified,"offender,rights,grand,facts,name,check,cleanup,zone,statement,named",0.8421052631578947
+attack_while_asleep,"duane,omena,bed,burglary,awoke,couch,awakened,conkle,asleep,sleeping",0.9473684210526315
+means_of_access_domestic_violence,"mr miller,bedroom,leeila,named,vic,miss,lakeycia,domestic violence,domestic,violence",0.9385964912280702
+conplainant_gave_defense,"bed,name,several times,away,living,leave,stop,started,began,pants",0.7719298245614035
+location_of_assault_outdoors,"thompson,approached,coat,jackson,walked,walk,field,behind,walking,ground",0.9473684210526315
+complainant_provided_identifying_info,"mother,plate,check,bedroom,cleanup,juvenile,zone,statement,name,named",0.7807017543859649
+any_penetration,"penis,vagina,inside,interviewee,forced,named,ave,ejaculated,zone,intercourse",0.8596491228070176
+social_situation,"glen,club,kissing,drink,scooby,po,brandy,bar,party,friend",0.9035087719298246
+any_vaginal_penetration,"ejaculated,sexual intercourse,vaginal intercourse,door,sister,penis vagina,condom,vagina,vaginal,intercourse",0.7368421052631579
+stranger,"side,east,ordered,leads,approached,kill,gun,automobile,unknown,walking",0.8596491228070176
+means_of_access_other,"began,cousin,cleanup cleanup,named,daughter,monk,tammera,interview,traylor,person",0.9210526315789473
+forced_immediate_attack,"face,martin,black,kidnapping,ground,ordered,behind,van,described,walking",0.7631578947368421
+asked_for_offered_ride,"regina fisher,drove,sus,needed ride,automobile,bishop,johnaya,charmayne,hinton,ride",0.9122807017543859
+location_of_assault_any_residence,"upstairs,door,living,living room,couch,named,bed,house,apartment,bedroom",0.8596491228070176
+location_of_assault_other,"marvin,abandoned house,boat,bishop,bearfield,hotel,garage,abandoned,room,motel",0.9298245614035088
