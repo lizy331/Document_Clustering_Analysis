@@ -18,7 +18,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 data = pd.read_json('train_sak_geo.json')                           # 读取报告数据 得到 pandas dataframe
 
 # 报告类别文件夹位置
-cluster_dir = r'/Users/liziyang/Downloads/Cluster_csv_data'
+cluster_dir = r'Cluster_csv_data'
 cluster_list = os.listdir(cluster_dir)
 
 stopwords_file = './stopwords.txt'                                  # 本地stopwords可根据情况修改
