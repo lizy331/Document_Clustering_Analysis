@@ -81,23 +81,25 @@ def word_top10(vectorizer, clf, class_labels):                          # 返回
         print('Top 10 words:',",".join(feature_names[j] for j in top10))
     return ",".join(feature_names[j] for j in top10)
 
-def write_out(df,train_data):
+def write_out(df,train_data,model):                                     # 选择使用的pipeline进行分类
     document_list = np.array(list(train_data['document']))              # 提取报告内容
     write_output = []                                                   # 记录 [聚类名，前十位词汇，精确度]
     for col in df.columns:
         X_train, X_test, y_train, y_test = train_test_split(document_list,list(df[col]),random_state=0, test_size=0.1, shuffle=True)            # 将数据随机分配成 训练集与测试集
-        SVC_pipeline.fit(X_train, y_train)                              # 输入测试集数据和标签 （数据为报告内容 标签为当前聚类'1' 其他聚类'0'）
-        prediction = SVC_pipeline.predict(X_test)                       # 预测模型
+        model.fit(X_train, y_train)                              # 输入测试集数据和标签 （数据为报告内容 标签为当前聚类'1' 其他聚类'0'）
+        prediction = model.predict(X_test)                       # 预测模型
         print()
         print(col + ': ' + str(accuracy_score(y_test, prediction)))      # 打印 OVR 准确值
-        write_output.append([col,word_top10(SVC_pipeline.steps[0][1], SVC_pipeline.steps[1][1], SVC_pipeline.classes_),str(accuracy_score(y_test, prediction))])        # 记录 [聚类名，前十位词汇，精确度]
+        write_output.append([col,word_top10(model.steps[0][1], model.steps[1][1], model.classes_),str(accuracy_score(y_test, prediction))])        # 记录 [聚类名，前十位词汇，精确度]
     return write_output
+
+
 
 if __name__ == '__main__':
     print('program started')
     new_df = merge_cluster(data,cluster_list)
-    write_output = write_out(new_df,data)
-    with open('ClassifierBigram.csv','w',encoding='utf-8') as f:
+    write_output = write_out(new_df,data,SVC_pipeline)
+    with open('ClassifierBigram_SVC.csv','w',encoding='utf-8') as f:
         writer = csv.writer(f)
         header = ['Cluster Name','Top10_words','accuracy']
         writer.writerow(header)
