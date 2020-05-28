@@ -1,0 +1,27 @@
+Cluster Name,Top10_words,accuracy
+Intimate_Partner_Ever,"wanted,cancel,00,03,name,boyfriend,ex,domestic,violence,named",0.8508771929824561
+suspect_used_weapon,"robbery,van,drove,east,weapon,head,2013,kidnapping,knife,gun",0.7192982456140351
+suspect_used_bodily_force,"violence,kidnapping,face,named,bitch,started,pushed,grabbed,began,forced",0.7105263157894737
+any_oral_penetration,"bitch,anal,mouth,dick,gun,forced,automobile,suck,perform,oral",0.7631578947368421
+location_of_assault_vehicle,"passenger,parking,pulled,plate,van,2013,lot,drove,automobile,seat",0.8333333333333334
+acquaintance,"sister,offender,began,cousin,cancel,house,room,jackson,friend,interview",0.8157894736842105
+suspect_used_alc_or_drugs,"room,hopper,smoke,traylor,marijuana,began,2008,bar,drinking,name",0.7894736842105263
+other,"worker,children,brother,statement,traylor,cleanup,person,juvenile,mother,named",0.8421052631578947
+complainant_used_alc_or_drugs,"beer,room,alcohol,05,highly,2008,intoxicated,males,bar,drinking",0.7192982456140351
+suspect_used_control,"2013,away,began,forced,automobile,gun,drove,grabbed,pulled,kidnapping",0.8245614035087719
+any_anal_penetration,"perform,doctor,hinton,brandon,2008,oral,2002,bearfield,anus,anal",0.8157894736842105
+suspect_identified,"offender,parole,facts,rights,name,check,cleanup,zone,statement,named",0.8070175438596491
+attack_while_asleep,"witness,2009,burglary,awoke,awakened,sleep,bed,couch,asleep,sleeping",0.9385964912280702
+means_of_access_domestic_violence,"name,wanted,02,miss,bedroom,00,northside,named,domestic,violence",0.9298245614035088
+conplainant_gave_defense,"away,bed,name,living,named,leave,stop,started,pants,began",0.6842105263157895
+location_of_assault_outdoors,"complied,81729,jackson,approached,walked,walk,field,behind,walking,ground",0.8771929824561403
+complainant_provided_identifying_info,"rights,bedroom,mother,check,cleanup,zone,juvenile,statement,name,named",0.7017543859649122
+any_penetration,"vagina,began,inside,forced,automobile,named,zone,ejaculated,2007,intercourse",0.8421052631578947
+social_situation,"04,kissing,party,offender,glen,06,bar,2004,name,friend",0.8859649122807017
+any_vaginal_penetration,"2007,began,office,ejaculated,inside,condom,door,vagina,vaginal,intercourse",0.7280701754385965
+stranger,"behind,approached,ordered,kill,unknown,gun,east,automobile,leads,walking",0.7982456140350878
+means_of_access_other,"cousin,complaint,daughter,cleanup,traylor,juvenile,mother,interview,named,person",0.8947368421052632
+forced_immediate_attack,"gun,face,van,ground,black,ordered,kidnapping,described,behind,walking",0.7368421052631579
+asked_for_offered_ride,"asked,2014,street,license,plate,2013,drove,charmayne,automobile,ride",0.8947368421052632
+location_of_assault_any_residence,"door,living,mother,name,couch,house,apartment,bed,named,bedroom",0.8508771929824561
+location_of_assault_other,"bishop,2003,males,boat,hotel,bearfield,abandoned,garage,motel,room",0.9122807017543859

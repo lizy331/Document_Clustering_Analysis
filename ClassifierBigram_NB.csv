@@ -1,0 +1,27 @@
+Cluster Name,Top10_words,accuracy
+Intimate_Partner_Ever,"apartment,northside named,clean,name,domestic violence,domestic,violence,named,00 00,00",0.8508771929824561
+suspect_used_weapon,"child,knife,vict,pulled,detective,leads,gun,east,00 00,00",0.6491228070175439
+suspect_used_bodily_force,"began,child,officer,zone,house,detective,east,named,00 00,00",0.6842105263157895
+any_oral_penetration,"males,vict,leads,detective,zone,oral,automobile,east,00 00,00",0.7280701754385965
+location_of_assault_vehicle,"detective,street,leads,pulled,seat,east,drove,automobile,00 00,00",0.8245614035087719
+acquaintance,"interview,clean,room,detective,offender,house,person,named,00 00,00",0.8157894736842105
+suspect_used_alc_or_drugs,"house,room,2008 00,detective,2008,offender,name,named,00 00,00",0.7894736842105263
+other,"statement,clean,detective,cleanup,juvenile,mother,person,named,00 00,00",0.8421052631578947
+complainant_used_alc_or_drugs,"offender,clean,house,room,males,2008,detective,named,00 00,00",0.7192982456140351
+suspect_used_control,"clean,officer,child,house,zone,detective,east,named,00 00,00",0.8245614035087719
+any_anal_penetration,"detective,person,zone,vict,2008,east,anal,named,00 00,00",0.8157894736842105
+suspect_identified,"cleanup,officer,detective,offender,clean,zone,person,named,00 00,00",0.5701754385964912
+attack_while_asleep,"room,2009,sleeping,interview,bed,house,zone,named,00 00,00",0.9385964912280702
+means_of_access_domestic_violence,"bedroom,name,northside,northside named,domestic,domestic violence,violence,named,00 00,00",0.9298245614035088
+conplainant_gave_defense,"officer,clean,zone,east,offender,house,detective,named,00 00,00",0.5701754385964912
+location_of_assault_outdoors,"pants,pulled,ground,street,saint,behind,east,walking,00 00,00",0.8771929824561403
+complainant_provided_identifying_info,"officer,house,offender,detective,clean,zone,person,named,00 00,00",0.5175438596491229
+any_penetration,"child,officer,person,house,zone,detective,east,named,00 00,00",0.8421052631578947
+social_situation,"06,2004,room,detective,name,clean,named,offender,00 00,00",0.8859649122807017
+any_vaginal_penetration,"asked,officer,child,zone,house,detective,east,named,00 00,00",0.7192982456140351
+stranger,"zone,child,pulled,street,automobile,detective,leads,east,00 00,00",0.6140350877192983
+means_of_access_other,"detective,house,cleanup,juvenile,interview,mother,person,named,00 00,00",0.8947368421052632
+forced_immediate_attack,"street,vict,black,detective,zone,walking,leads,east,00 00,00",0.7368421052631579
+asked_for_offered_ride,"charmayne,pulled,asked,drove,street,east,ride,automobile,00 00,00",0.8947368421052632
+location_of_assault_any_residence,"clean,offender,mother,detective,apartment,house,person,named,00 00,00",0.6403508771929824
+location_of_assault_other,"officer,child,detective,offender,clean,bearfield,males,room,00 00,00",0.9122807017543859
