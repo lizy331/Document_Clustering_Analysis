@@ -6,3 +6,5 @@
 3. sentiment analysis
 
 4. wordcount variance
+
+5. document clustering
