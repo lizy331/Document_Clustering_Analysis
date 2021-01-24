@@ -1,10 +1,9 @@
 # Report Language Analysis
-1. wordcount
 
-2. tfidf
+Quantify Documents into positive and negative attitudes using Sentiment Analysis and Text Analytics.
+Data Visualization to present the results.
 
-3. sentiment analysis
+Build Machine Learning models of Logistic Regression classifier, Naive Bayes classifier and
+SVM classifier and achieved an accuracy above 90%.
 
-4. wordcount variance
-
-5. document clustering
+Feature Selection and generated top 10 most significant words for document clustering.
