@@ -1,4 +1,4 @@
-# Report Language Analysis
+# Documents Analysis
 
 1. Quantify Documents into positive and negative attitudes using Sentiment Analysis and Text Analytics.
 Data Visualization to present the results. Plot the regularized Sentiment score as a circle where the size of the circle represents the number of police reports in the given year.
